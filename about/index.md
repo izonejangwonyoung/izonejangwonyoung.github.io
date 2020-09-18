@@ -6,19 +6,12 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://izonejangwonyoung.github.io/"><b>THIS SPACE</b></a>will be filled with the passion of beginners.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+*Importance Of Record
+*visit my  --> <a herf=https://izonejangwonyoung.github.io/>hub<a>^^
+
 
 ## Preview
 
