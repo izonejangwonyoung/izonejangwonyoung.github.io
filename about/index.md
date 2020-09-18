@@ -10,14 +10,14 @@ comments: false
 
 ## Features
 *Importance Of Record
-*visit my  --> <a herf=https://izonejangwonyoung.github.io/>hub<a>^^
+*visit my hub ^^
 
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://user-images.githubusercontent.com/59958498/93599708-87e00580-f9f9-11ea-8701-3f06c7c7f113.gif
+    https://user-images.githubusercontent.com/59958498/93599714-8a425f80-f9f9-11ea-8ff8-9a3ee7ac4751.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
